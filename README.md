@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Power BI**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/msantanarod](https://troopl.com/msantanarod)
+- 👨‍💻 All of my projects are available at [https://troopl.com/msantanarod](https://troopl.com/msantanarod) and my Power Bi projects are available at [https://www.novypro.com/profile_projects/msantanarod](https://www.novypro.com/profile_projects/msantanarod)
 
 - 📫 How to reach me **mercedes.santanarod@gmail.com**
 
